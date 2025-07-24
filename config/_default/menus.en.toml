@@ -5,56 +5,60 @@ name = "about"
 url = "#about"
 weight = 1
 
-[[main]]
-name = "services"
-url = "#services"
-weight = 2
+# [[main]]
+# name = "services"
+# url = "#services"
+# weight = 2
 
 [[main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
+name = "our science"
+url = "#ourscience"
+weight = 2
 
 [[main]]
 name = "team"
 url = "#team"
-weight = 4
+weight = 3
 
-[[main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+# [[main]]
+# name = "pricing"
+# url = "#pricing"
+# weight = 5
 
 [[main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
 [[main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 5
 
 
-[[main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
+############## Example how to create a dropdown menu
+# [[main]]
+# name = "Dropdown"
+# weight = 6
+# hasChildren = true
+# 
+# [[main]]
+# parent = "Dropdown"
+# name = "Dropdown 1"
+# url = "#"
+# weight = 1
+# 
+# [[main]]
+# parent = "Dropdown"
+# name = "Dropdown 2"
+# url = "#"
+# weight = 2
 
-[[main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
 
-[[main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
 
-[[main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+############## Example linking to other sites
+# [[main]]
+# name = "themefisher"
+# url = "https://themefisher.com/"
+# weight = 8
 
