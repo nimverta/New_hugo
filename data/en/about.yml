@@ -1,16 +1,11 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: "Why We Exist"
+  subtitle: "The Problem We're Solving"
+  content: >
+    Osteoporosis, osteoarthritis, and bone fragility rob millions of their mobility, healing potential, and quality of life. Yet current treatments ignore a critical piece of biology: the vascular microenvironment that supports bone regeneration.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    **Nimverta is developing a first-in-class peptide therapy that simultaneously regenerates bone and vasculature.** By leveraging natural physiological pathways, our approach unlocks a new future for long-term, safe treatment of skeletal disease.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  image: "images/about/nimverta-about.jpg"

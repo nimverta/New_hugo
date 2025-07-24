@@ -1,0 +1,38 @@
+enable: true
+title: "Our Science"
+subtitle: "Dual-Regeneration Therapy in Action"
+filter:
+  - label: "All"
+    filter: "*"
+  - label: "Mechanism"
+    filter: ".mechanism"
+  - label: "Preclinical"
+    filter: ".preclinical"
+  - label: "Delivery"
+    filter: ".delivery"
+
+portfolioitem:
+  - name: "Peptide Activation Pathway"
+    image: "images/portfolio/activation.jpg"
+    filter: "mechanism"
+    url: "#"
+
+  - name: "Bone + Vasculature Formation"
+    image: "images/portfolio/regeneration.jpg"
+    filter: "preclinical"
+    url: "#"
+
+  - name: "Mouse Model: Femur Recovery"
+    image: "images/portfolio/mouse.jpg"
+    filter: "preclinical"
+    url: "#"
+
+  - name: "Targeted Delivery System"
+    image: "images/portfolio/delivery.jpg"
+    filter: "delivery"
+    url: "#"
+
+  - name: "Clinical Use Case Illustration"
+    image: "images/portfolio/clinical.jpg"
+    filter: "delivery"
+    url: "#"
