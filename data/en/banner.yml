@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
+  title: "Nimverta"
+  content: "**Regenerating Bone. Restoring Life.**\n\nWe are building the first therapy that regenerates both bone and blood vessels - for long-term healing, not short-term fixes. Age-related bone diseases affect millions and lack durable treatments. Nimverta's peptide platform activates natural healing pathways to rebuild skeletal structure and its vascular support system - safely and effectively."
   bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/hero-area.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "Learn More"
+    link : "#about"
