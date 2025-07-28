@@ -13,26 +13,7 @@ filter:
 
 portfolioitem:
   - name: "Peptide Activation Pathway"
-    image: "images/portfolio/activation.jpg"
+    description: "This illustrates how our therapeutic peptide activates regenerative signaling pathways in bone and vascular tissue."
     filter: "mechanism"
     url: "#"
 
-  - name: "Bone + Vasculature Formation"
-    image: "images/portfolio/regeneration.jpg"
-    filter: "preclinical"
-    url: "#"
-
-  - name: "Mouse Model: Femur Recovery"
-    image: "images/portfolio/mouse.jpg"
-    filter: "preclinical"
-    url: "#"
-
-  - name: "Targeted Delivery System"
-    image: "images/portfolio/delivery.jpg"
-    filter: "delivery"
-    url: "#"
-
-  - name: "Clinical Use Case Illustration"
-    image: "images/portfolio/clinical.jpg"
-    filter: "delivery"
-    url: "#"

@@ -1,0 +1,23 @@
+{{ $data := index site.Data "en" }}
+{{ $science := index $data "our-science" }}
+{{ if $science.enable }}
+<section id="our-science" class="section">
+  <div class="container">
+    <div class="section-title">
+      <h2>{{ $science.title }}</h2>
+      <p>{{ $science.subtitle }}</p>
+    </div>
+
+    <div class="row">
+      {{ range $science.portfolioitem }}
+      <div class="col-md-12 mb-4">
+        <h4>{{ .name }}</h4>
+        {{ if .description }}
+          <p>{{ .description }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
