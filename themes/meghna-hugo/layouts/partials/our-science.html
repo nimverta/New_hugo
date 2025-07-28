@@ -8,15 +8,13 @@
       <p>{{ $science.subtitle }}</p>
     </div>
 
-    <div class="row">
-      {{ range $science.portfolioitem }}
-      <div class="col-md-12 mb-4">
+    {{ range $science.sections }}
+      <div class="col-md-12 mb-5">
         <h4>{{ .name }}</h4>
-        {{ if .description }}
-          <p>{{ .description }}</p>
-        {{ end }}
+        {{ .content | markdownify }}
       </div>
-      {{ end }}
+    {{ end }}
+
     </div>
   </div>
 </section>

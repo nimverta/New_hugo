@@ -12,7 +12,7 @@ weight = 1
 
 [[main]]
 name = "our science"
-url = "#ourscience"
+url = "#our-science"
 weight = 2
 
 [[main]]
