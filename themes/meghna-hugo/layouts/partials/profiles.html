@@ -1,0 +1,49 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.profiles.profiles.enable }}
+{{ with $data.profiles.profiles }}
+<!-- Start Profiles -->
+<section id="profiles" class="testimonial overly section bg-2"
+  {{ partial "bg-image.html" (dict "Src" .bg_image_webp ) | safeHTMLAttr }}>
+
+  <!-- Fallback background image -->
+  {{ partial "image.html" (dict "Src" .bg_image_webp "Class" "d-none") }}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12">
+
+        <!-- Profiles Carousel Wrapper -->
+        <div id="profiles-slider" class="testimonial-slider wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
+          {{ range .profiles_item }}
+          <!-- Single Profile -->
+          <div class="item text-center">
+
+            <!-- Profile Photo -->
+            <div class="client-thumb">
+              {{ partial "image.html" (dict "Src" .image_webp "Alt" .name "Class" "img-fluid lozad" ) }}
+            </div>
+
+            <!-- Profile Info -->
+            <div class="client-info">
+              <div class="client-meta">
+                <h3>{{ .name }}</h3>
+                <span>{{ .date }}</span>
+              </div>
+              <div class="client-comment">
+                <p>{{ .content | markdownify }}</p>
+              </div>
+            </div>
+
+          </div>
+          <!-- /Single Profile -->
+          {{ end }}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Profiles -->
+{{ end }}
+{{ end }}

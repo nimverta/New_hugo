@@ -26,6 +26,11 @@ weight = 3
 # weight = 5
 
 [[main]]
+name = "Profiles"
+url = "#profiles"
+weight = 3.5
+
+[[main]]
 name = "blog"
 url = "#blog"
 weight = 4
