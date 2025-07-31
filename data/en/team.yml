@@ -5,6 +5,7 @@ team:
   team_member :
     # team member loop
     - name : Dr Amit Singh
+      slug : amit-singh
       image_webp : images/team/Amit.webp
       image : images/team/Amit.jpeg
       designation : CEO/Founder
@@ -22,6 +23,7 @@ team:
         
     # team member loop
     - name : Rob Chisholm
+      slug : rob-chisholm
       image_webp : images/team/Rob.webp
       image : images/team/Rob.jpeg
       designation : Chief Business Officer
@@ -39,6 +41,7 @@ team:
         
     # team member loop
     - name : Prof. Anjali Kusumbe
+      slug : anjali-kusumbe
       image_webp : images/team/Anjali-Kusumbe.jpg
       image : images/team/Anjali-Kusumbe.jpg
       designation : Chief scientific officer
@@ -56,6 +59,7 @@ team:
         
     # team member loop
     - name : Dr. Gwang Jin Kim
+      slug : gwang-jin-kim
       image_webp : images/team/me-hamburg.webp
       image : images/team/me-hamburg.jpg
       designation : SEO Specialist
