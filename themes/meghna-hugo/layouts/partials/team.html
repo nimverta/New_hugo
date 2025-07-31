@@ -36,7 +36,7 @@
           {{"<!-- member name & designation -->" | safeHTML}}
           <div class="member-meta">
             <h4 class="mb-0">
-              <a href="/#profiles?person={{ index (split .name " ") 1 | urlize }}">
+              <a href="/#profiles?person={{ .slug }}">
                 {{ .name }}
               </a>
             </h4>
@@ -45,7 +45,7 @@
             <p>
               {{ .content | truncate 150 }}
               <br>
-              <a class="btn btn-sm btn-main mt-2" href="/#profiles?person={{ index (split .name " ") 1 | urlize }}">
+              <a class="btn btn-sm btn-main mt-2" href="/#profiles?person={{ .slug }}">
                 More →
               </a>
             </p>
