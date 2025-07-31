@@ -66,6 +66,28 @@ jQuery(function ($) {
 		autoplaySpeed: 4000
 	});
 
+	// Deep link to a specific profile in the carousel
+	const hash = window.location.hash;
+
+	if (hash && hash.startsWith("#profiles")) {
+	    const params = new URLSearchParams(hash.split("?")[1]);
+	    const person = params.get("person");
+
+	    if (person) {
+	        // Wait until Slick is ready
+	        setTimeout(function () {
+	            const index = $('#testimonials .item').filter(function () {
+	                return $(this).data("person") === person;
+	            }).index();
+
+	            if (index >= 0) {
+	                $("#testimonials").slick('slickGoTo', index);
+	            }
+	        }, 500); // slight delay to ensure Slick is initialized
+	    }
+	}
+
+
 	/* ========================================================================= */
 	/*	animation scroll js
 	/* ========================================================================= */
