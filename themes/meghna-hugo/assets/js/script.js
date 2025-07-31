@@ -69,7 +69,7 @@ jQuery(function ($) {
 	// Deep link to a specific profile in the carousel
 	const hash = window.location.hash;
 
-	if (hash && hash.startsWith("#profiles")) {
+	if (hash && hash.startsWith("#testimonials")) {
 	    const params = new URLSearchParams(hash.split("?")[1]);
 	    const person = params.get("person");
 
