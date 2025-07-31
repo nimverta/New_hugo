@@ -1,9 +1,9 @@
-profiles:
+testimonial:
   enable: true
   bg_image: images/backgrounds/bg-profiles.jpg
   bg_image_webp: images/backgrounds/bg-profiles.webp
 
-  profiles_item:
+  testimonial_item:
     - name: "Dr Amit Singh"
       image: images/team/Amit.jpeg
       image_webp: images/team/Amit.webp

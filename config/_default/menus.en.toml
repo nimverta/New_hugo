@@ -27,7 +27,7 @@ weight = 3
 
 [[main]]
 name = "Profiles"
-url = "#profiles"
+url = "#testimonial"
 weight = 3.5
 
 [[main]]
