@@ -36,7 +36,7 @@
           {{"<!-- member name & designation -->" | safeHTML}}
           <div class="member-meta">
             <h4 class="mb-0">
-              <a href="/#profiles?person={{ .slug }}">
+              <a href="{{ "/" | relURL }}#testimonial?person={{ .slug }}">
                 {{ .name }}
               </a>
             </h4>

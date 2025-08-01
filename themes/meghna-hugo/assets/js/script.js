@@ -68,34 +68,54 @@ jQuery(function ($) {
 
 
 
-const hash = window.location.hash;
+	/**
+	 * Function to navigate the testimonial carousel to a specific person.
+	 * @param {string} personSlug - The slug of the person to find (e.g., "amit-singh").
+	 */
+	function goToTeamMember(personSlug) {
+		if (!personSlug) {
+			return;
+		}
+		// Find the slide element that has the matching data-person attribute
+		const slide = $('#testimonials .item[data-person="' + personSlug + '"]');
 
-if (hash && hash.startsWith("#testimonial")) {
-    // Scroll manually to section, because browser won’t with ?param
-    const section = document.querySelector("#testimonial");
-    if (section) {
-        section.scrollIntoView({ behavior: "smooth" });
-    }
+		if (slide.length > 0) {
+			// Slick adds a data-slick-index attribute to each slide. Use this to navigate reliably.
+			const slickIndex = slide.data('slick-index');
+			if (typeof slickIndex !== 'undefined') {
+				$("#testimonials").slick('slickGoTo', slickIndex);
+			}
+		}
+	}
 
-    // Extract slug
-    const parts = hash.split("?");
-    const params = new URLSearchParams(parts[1]);
-    const person = params.get("person");
+	/**
+	 * Function to read the URL hash and trigger the carousel navigation.
+	 */
+	function handleHash() {
+		const hash = window.location.hash;
 
-    if (person) {
-        setTimeout(function () {
-            const index = $('#testimonials .item').filter(function () {
-                return $(this).data("person") === person;
-            }).index();
+		// Check if the hash contains the required structure
+		if (hash && hash.startsWith("#testimonial?person=")) {
+			// Extract the person's slug from the hash
+			const params = new URLSearchParams(hash.split("?")[1]);
+			const person = params.get("person");
 
-            if (index >= 0) {
-                $("#testimonials").slick('slickGoTo', index);
-            } else {
-                console.warn("Person not found in carousel:", person);
-            }
-        }, 500);
-    }
-}
+			// Use a short timeout to ensure the slick slider is ready
+			setTimeout(function () {
+				goToTeamMember(person);
+			}, 300);
+		}
+	}
+
+	// Run the function when the page first loads
+	handleHash();
+
+	// Add an event listener to run the function whenever the hash changes
+	$(window).on('hashchange', function() {
+        handleHash();
+    });
+
+
 
 	/* ========================================================================= */
 	/*	animation scroll js
