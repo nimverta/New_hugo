@@ -66,27 +66,37 @@ jQuery(function ($) {
 		autoplaySpeed: 4000
 	});
 
-	// Deep link to a specific profile in the carousel
-	const hash = window.location.hash;
 
-	if (hash && hash.startsWith("#testimonials")) {
-	    const params = new URLSearchParams(hash.split("?")[1]);
-	    const person = params.get("person");
+    // Extract pure hash + parameters
+    const fullHash = window.location.hash;
 
-	    if (person) {
-	        // Wait until Slick is ready
-	        setTimeout(function () {
-	            const index = $('#testimonials .item').filter(function () {
-	                return $(this).data("person") === person;
-	            }).index();
+    if (fullHash && fullHash.startsWith("#testimonial")) {
+        const [hashOnly, query] = fullHash.split("?");
+    
+        // Scroll manually to the testimonial section
+        const target = document.getElementById("testimonial");
+        if (target) {
+            target.scrollIntoView({ behavior: "smooth" });
+        }
 
-	            if (index >= 0) {
-	                $("#testimonials").slick('slickGoTo', index);
-	            }
-	        }, 500); // slight delay to ensure Slick is initialized
-	    }
-	}
+        // Deep link to person
+        if (query) {
+            const params = new URLSearchParams(query);
+            const person = params.get("person");
 
+            if (person) {
+                setTimeout(function () {
+                    const index = $('#testimonials .item').filter(function () {
+                        return $(this).data("person") === person;
+                    }).index();
+
+                    if (index >= 0) {
+                        $("#testimonials").slick('slickGoTo', index);
+                    }
+                }, 500); // delay to let Slick initialize
+            }
+        }
+    }
 
 	/* ========================================================================= */
 	/*	animation scroll js
