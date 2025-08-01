@@ -45,7 +45,7 @@
             <p>
               {{ .content | truncate 150 }}
               <br>
-              <a class="btn btn-sm btn-main mt-2" href="{{ (print "#testimonial?person=" .slug) | relURL }}">
+              <a class="btn btn-sm btn-main mt-2" href="{{ "/" | relURL }}#testimonial?person={{ .slug }}">
                 More →
               </a>
             </p>

@@ -67,37 +67,35 @@ jQuery(function ($) {
 	});
 
 
-// Deep link handling for testimonial carousel
-$(document).ready(function () {
-    const fullHash = window.location.hash; // e.g., "#testimonial?person=amit-singh"
 
-    if (fullHash && fullHash.startsWith("#testimonial")) {
-        // Manual scroll (since browser won't scroll with query string)
-        const section = document.getElementById("testimonial");
-        if (section) {
-            section.scrollIntoView({ behavior: "smooth" });
-        }
+const hash = window.location.hash;
 
-        // Parse slug from query string
-        const queryPart = fullHash.split("?")[1];
-        if (queryPart) {
-            const params = new URLSearchParams(queryPart);
-            const personSlug = params.get("person");
-
-            if (personSlug) {
-                setTimeout(function () {
-                    const index = $('#testimonials .item').filter(function () {
-                        return $(this).data("person") === personSlug;
-                    }).index();
-
-                    if (index >= 0) {
-                        $("#testimonials").slick('slickGoTo', index);
-                    }
-                }, 500); // wait until Slick is ready
-            }
-        }
+if (hash && hash.startsWith("#testimonial")) {
+    // Scroll manually to section, because browser won’t with ?param
+    const section = document.querySelector("#testimonial");
+    if (section) {
+        section.scrollIntoView({ behavior: "smooth" });
     }
-});
+
+    // Extract slug
+    const parts = hash.split("?");
+    const params = new URLSearchParams(parts[1]);
+    const person = params.get("person");
+
+    if (person) {
+        setTimeout(function () {
+            const index = $('#testimonials .item').filter(function () {
+                return $(this).data("person") === person;
+            }).index();
+
+            if (index >= 0) {
+                $("#testimonials").slick('slickGoTo', index);
+            } else {
+                console.warn("Person not found in carousel:", person);
+            }
+        }, 500);
+    }
+}
 
 	/* ========================================================================= */
 	/*	animation scroll js
