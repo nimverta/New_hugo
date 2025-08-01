@@ -25,13 +25,13 @@ weight = 3
 # url = "#pricing"
 # weight = 5
 
-[[main]]
-name = "Profiles"
-url = "#testimonial"
-weight = 3.5
+# [[main]]
+# name = "Profiles"
+# url = "#testimonial"
+# weight = 3.5
 
 [[main]]
-name = "blog"
+name = "news"
 url = "#blog"
 weight = 4
 
