@@ -67,36 +67,35 @@ jQuery(function ($) {
 	});
 
 
-    // Extract pure hash + parameters
-    const fullHash = window.location.hash;
+	const fullHash = window.location.hash;
 
-    if (fullHash && fullHash.startsWith("#testimonial")) {
-        const [hashOnly, query] = fullHash.split("?");
-    
-        // Scroll manually to the testimonial section
-        const target = document.getElementById("testimonial");
-        if (target) {
-            target.scrollIntoView({ behavior: "smooth" });
-        }
+	if (fullHash && fullHash.startsWith("#testimonial")) {
+	    const [hashOnly, query] = fullHash.split("?");
 
-        // Deep link to person
-        if (query) {
-            const params = new URLSearchParams(query);
-            const person = params.get("person");
+	    // Scroll manually to the testimonial section
+	    const target = document.getElementById("testimonial");
+	    if (target) {
+	        target.scrollIntoView({ behavior: "smooth" });
+	    }
 
-            if (person) {
-                setTimeout(function () {
-                    const index = $('#testimonials .item').filter(function () {
-                        return $(this).data("person") === person;
-                    }).index();
+	    // Handle ?person=...
+	    if (query) {
+	        const params = new URLSearchParams(query);
+	        const person = params.get("person");
 
-                    if (index >= 0) {
-                        $("#testimonials").slick('slickGoTo', index);
-                    }
-                }, 500); // delay to let Slick initialize
-            }
-        }
-    }
+	        if (person) {
+	            setTimeout(function () {
+	                const index = $('#testimonials .item').filter(function () {
+	                    return $(this).data("person") === person;
+	                }).index();
+
+	                if (index >= 0) {
+	                    $("#testimonials").slick('slickGoTo', index);
+	                }
+	            }, 500); // Wait for slick to be ready
+	        }
+	    }
+	}
 
 	/* ========================================================================= */
 	/*	animation scroll js
