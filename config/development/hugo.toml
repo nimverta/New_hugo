@@ -1,5 +1,4 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
 baseURL = "http://localhost:1313/meghna/examplesite/"
 title = "Meghna"
 theme = "meghna-hugo"
