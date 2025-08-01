@@ -35,8 +35,10 @@
 
           {{"<!-- member name & designation -->" | safeHTML}}
           <div class="member-meta">
+            {{/* Construct the link to the team member's page */}}
+            {{ $profileURL := printf "team/%s" .slug | relURL }}
             <h4 class="mb-0">
-              <a href="{{ "/" | relURL }}#testimonial?person={{ .slug }}">
+              <a href="{{ $profileURL }}">
                 {{ .name }}
               </a>
             </h4>
@@ -45,12 +47,12 @@
             <p>
               {{ .content | truncate 150 }}
               <br>
-              <a class="btn btn-sm btn-main mt-2" href="{{ "/" | relURL }}#testimonial?person={{ .slug }}">
-                More →
+              <a class="btn btn-sm btn-main mt-2" href="{{ $profileURL }}">
+                View Profile →
               </a>
             </p>
-
           </div>
+
         </div>
       </div>
       {{"<!-- end team member -->" | safeHTML}}
