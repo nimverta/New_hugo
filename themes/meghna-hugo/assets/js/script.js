@@ -67,35 +67,37 @@ jQuery(function ($) {
 	});
 
 
-	const fullHash = window.location.hash;
+// Deep link handling for testimonial carousel
+$(document).ready(function () {
+    const fullHash = window.location.hash; // e.g., "#testimonial?person=amit-singh"
 
-	if (fullHash && fullHash.startsWith("#testimonial")) {
-	    const [hashOnly, query] = fullHash.split("?");
+    if (fullHash && fullHash.startsWith("#testimonial")) {
+        // Manual scroll (since browser won't scroll with query string)
+        const section = document.getElementById("testimonial");
+        if (section) {
+            section.scrollIntoView({ behavior: "smooth" });
+        }
 
-	    // Scroll manually to the testimonial section
-	    const target = document.getElementById("testimonial");
-	    if (target) {
-	        target.scrollIntoView({ behavior: "smooth" });
-	    }
+        // Parse slug from query string
+        const queryPart = fullHash.split("?")[1];
+        if (queryPart) {
+            const params = new URLSearchParams(queryPart);
+            const personSlug = params.get("person");
 
-	    // Handle ?person=...
-	    if (query) {
-	        const params = new URLSearchParams(query);
-	        const person = params.get("person");
+            if (personSlug) {
+                setTimeout(function () {
+                    const index = $('#testimonials .item').filter(function () {
+                        return $(this).data("person") === personSlug;
+                    }).index();
 
-	        if (person) {
-	            setTimeout(function () {
-	                const index = $('#testimonials .item').filter(function () {
-	                    return $(this).data("person") === person;
-	                }).index();
-
-	                if (index >= 0) {
-	                    $("#testimonials").slick('slickGoTo', index);
-	                }
-	            }, 500); // Wait for slick to be ready
-	        }
-	    }
-	}
+                    if (index >= 0) {
+                        $("#testimonials").slick('slickGoTo', index);
+                    }
+                }, 500); // wait until Slick is ready
+            }
+        }
+    }
+});
 
 	/* ========================================================================= */
 	/*	animation scroll js
