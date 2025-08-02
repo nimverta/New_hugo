@@ -1,7 +1,8 @@
 ################################# Default configuration ###################
 # baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
 # baseURL = "https://www.nimverta.com/"
-baseURL = "https://amig-singh25.github.io/New_hugo"
+# baseURL = "https://amig-singh25.github.io/New_hugo"
+baseURL = "https://gwangjinkim.github.io/New_hugo/"
 # title = "Meghna"
 title = "Nimverta"
 theme = "meghna-hugo"
