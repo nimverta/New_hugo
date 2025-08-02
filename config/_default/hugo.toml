@@ -98,10 +98,12 @@ logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
+copyright = "Copyright © 2024 Nimverta. All Rights Reserved. | Theme by [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
 post_share = true
+
 
 # preloader
 [params.preloader]
@@ -156,8 +158,8 @@ contentDir = "content/english"
 [Languages.en.params]
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
+# copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+# copyright = "Copyright © 2024 Nimverta. All Rights Reserved. | Theme by [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 ################################ France Language ########################
 [Languages.fr]
 languageName = "Fr"
@@ -167,4 +169,4 @@ weight = 2
 
 [Languages.fr.params]
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+# copyright = "Copyright © 2024 Nimverta. All Rights Reserved. | Theme by [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"

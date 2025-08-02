@@ -6,7 +6,7 @@ contentDir = "content/english"
 weight = 1
 [en.params]
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright © 2024 Nimverta. All Rights Reserved. | Theme by [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 
 
@@ -18,7 +18,7 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 # weight = 2
 # [fr.params]
 # home = "Accueil"
-# copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+# copyright = "Copyright © 2024 Nimverta. All Rights Reserved. | Theme by [Themefisher](https://themefisher.com) & [Gethugothemes](https://gethugothemes.com)"
 
 
 
