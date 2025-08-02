@@ -22,6 +22,13 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
+      - name: Patch artifact upload dependency
+        uses: actions/upload-artifact@v4
+        with:
+          name: dummy
+          path: dummy.txt
+        continue-on-error: true
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
