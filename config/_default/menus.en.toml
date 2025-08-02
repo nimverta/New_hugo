@@ -41,12 +41,12 @@ url = "#collaborators"
 weight = 5
 
 [[main]]
-name = "news"
+name = "News"
 url = "#blog"
 weight = 6
 
 [[main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 7
 
