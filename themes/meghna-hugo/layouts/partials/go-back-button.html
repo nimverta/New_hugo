@@ -1,0 +1,11 @@
+{{/* This partial creates a "Go Back" button that links to the list page of the current section. */}}
+
+{{ $section_path := printf "/%s" .Section | relURL }}
+{{ $section_name := .Section | title }}
+
+<div class="text-center mt-5">
+    <a href="{{ $section_path }}" class="btn btn-main">
+        <i class="ti-arrow-left"></i> Go Back to {{ $section_name }}
+    </a>
+</div>
+

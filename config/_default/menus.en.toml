@@ -31,14 +31,19 @@ weight = 3
 # weight = 3.5
 
 [[main]]
+name = "Advisory Board"
+url = "advisory"
+weight = 4
+
+[[main]]
 name = "news"
 url = "#blog"
-weight = 4
+weight = 5
 
 [[main]]
 name = "contact"
 url = "#contact"
-weight = 5
+weight = 6
 
 
 ############## Example how to create a dropdown menu
