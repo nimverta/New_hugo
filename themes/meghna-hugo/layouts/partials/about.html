@@ -15,8 +15,17 @@
                 </span>
               </h2>
               -->
-
+              
+              <!-- previously
               <h2 class="wow fadeIn" data-wow-duration="1500ms">{{ .title }}</h2>
+              -->
+
+	      {{ with .title }}
+              <h2>
+                <span class="color">{{ index (split . " ") 0 }}</span> {{ delimit (after 1 (split . " ")) " " }}
+              </h2>
+              {{ end }}
+
               {{ with .subtitle }}<p>{{ . }}</p>{{ end }}
               <div class="border-meghna"></div>
             </div>
