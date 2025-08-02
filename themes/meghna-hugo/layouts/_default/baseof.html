@@ -3,10 +3,15 @@
 {{ partial "head.html" . }}
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
-  <div id="content">
+
     {{ partial "preloader.html" . }}
+
+    {{ partial "navigation.html" . }} <!-- added for visibility from team section on -->
+
+  <div id="content">
     {{- block "main" . }}{{- end }}
   </div>
+
   {{- partial "footer.html" . -}}
 </body>
 
