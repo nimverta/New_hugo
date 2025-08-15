@@ -1,0 +1,21 @@
+{{/*
+  This partial renders an icon.
+  It checks if the icon string starts with "ti-".
+  - If yes, it renders a Themify font icon <i> tag.
+  - If no, it assumes it's a path to an SVG in the /assets/ folder and inlines it.
+*/}}
+
+{{ $icon_string := .icon }}
+{{ $is_themify := strings.HasPrefix $icon_string "ti-" }}
+
+{{ if $is_themify }}
+  {{/* It's a font icon, so create an <i> element */}}
+  <i class="{{ $icon_string }}"></i>
+{{ else }}
+  {{/* It's an SVG file path. Find it in /assets/ and inline its content. */}}
+  {{ with resources.Get $icon_string }}
+    {{ .Content | safeHTML }}
+  {{ else }}
+    {{ warnf "Custom icon not found at path: %s" $icon_string }}
+  {{ end }}
+{{ end }}

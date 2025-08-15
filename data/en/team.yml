@@ -72,6 +72,7 @@ team:
         link : "https://www.linkedin.com/in/gwangjin/"
       - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
         link : "#"
-       
+      - icon : icons/google-scholar.svg
+        link : "#"       
         #- icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
         #  link : "#"
