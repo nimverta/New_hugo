@@ -1,0 +1,24 @@
+/* static/css/custom.css */
+
+/* Style the link that contains a social icon */
+.social-icon-link {
+  /* Use the text color of the theme by default */
+  color: #888; 
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+/* Set a hover color */
+.social-icon-link:hover {
+  color: #555; /* A darker gray on hover */
+}
+
+/* Target the SVG element directly inside the link */
+.social-icon-link svg {
+  /* Set a size for your custom SVG icons */
+  width: 1.5rem;
+  height: 1.5rem;
+
+  /* This is the magic part: it makes the SVG take the color of its parent link */
+  fill: currentColor; 
+}
