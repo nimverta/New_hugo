@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "navigation.html" . }}
+<!-- {{ partial "navigation.html" . }} -->
 
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section id="blog" class="section">
@@ -19,9 +19,11 @@
       {{ range $paginator.Pages }}
       {{ .Render "article" }}
       {{ end }}
+
       <div class="col-12">
         {{ template "_internal/pagination.html" . }}
       </div>
+      {{ partial "go-back-button.html" . }}
     </div>
   </div>
 </section>
