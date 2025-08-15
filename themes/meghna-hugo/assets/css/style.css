@@ -1018,7 +1018,7 @@ a:hover {
 }
 
 /*=================================================================
-  Our Team
+  Our Team    but also Advisory board and Collaborators
 ==================================================================*/
 .team-member {
   background-color: #292F36;
@@ -1108,6 +1108,36 @@ a:hover {
 .member-meta span {
   font-size: 12px;
 }
+
+
+/* =================================== */
+/* Logo-Specific Styles                */
+/* =================================== */
+
+/* Styles that ONLY apply to the logo container inside a card.
+   This class should only be used on collaborator/advisory cards. */
+.member-logo-container {
+  height: 60px; /* Ensures consistent vertical space for the logo */
+  
+  /* Flexbox is great for perfect centering */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  margin-bottom: 1rem; /* Adds some space below the logo */
+}
+
+/* Styles that ONLY apply to the logo image itself */
+.member-logo {
+  /* This ensures the logo fits inside the container without being distorted */
+  max-height: 100%; 
+  max-width: 100%;
+  object-fit: contain; /* This is the key property to prevent stretching */
+
+  /* Let the browser determine the width automatically based on the height */
+  width: auto; 
+}
+
 
 /*=================================================================
   Testimonial section
