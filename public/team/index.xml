@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Nimverta</title>
-    <link>https://www.nimverta.com/team/</link>
+    <link>http://localhost:1313/New_hugo/team/</link>
     <description>Recent content in Teams on Nimverta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2025 11:03:00 +0200</lastBuildDate>
-    <atom:link href="https://www.nimverta.com/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/New_hugo/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Gwang Jin Kim</title>
-      <link>https://www.nimverta.com/team/gwang-jin-kim/</link>
+      <link>http://localhost:1313/New_hugo/team/gwang-jin-kim/</link>
       <pubDate>Fri, 01 Aug 2025 11:03:00 +0200</pubDate>
-      <guid>https://www.nimverta.com/team/gwang-jin-kim/</guid>
+      <guid>http://localhost:1313/New_hugo/team/gwang-jin-kim/</guid>
       <description>&lt;p&gt;Dr. Gwang Jin Kim is a specialist in search engine optimization and digital strategy, ensuring that Nimverta&amp;rsquo;s scientific mission and message reach a global audience. His role is crucial in building the company&amp;rsquo;s online presence, communicating its vision to stakeholders, and attracting talent and partners through digital channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Anjali Kusumbe</title>
-      <link>https://www.nimverta.com/team/anjali-kusumbe/</link>
+      <link>http://localhost:1313/New_hugo/team/anjali-kusumbe/</link>
       <pubDate>Fri, 01 Aug 2025 11:02:00 +0200</pubDate>
-      <guid>https://www.nimverta.com/team/anjali-kusumbe/</guid>
+      <guid>http://localhost:1313/New_hugo/team/anjali-kusumbe/</guid>
       <description>&lt;p&gt;Professor Anjali Kusumbe is a leading expert in the field of vascular biology and its role in tissue regeneration and aging. As Chief Scientific Officer, she provides the scientific vision and leadership that underpins Nimverta&amp;rsquo;s groundbreaking therapeutic platform. Her pioneering research into the vascular microenvironment of bone has been published in top-tier scientific journals and has fundamentally shifted the understanding of skeletal diseases.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rob Chisholm</title>
-      <link>https://www.nimverta.com/team/rob-chisholm/</link>
+      <link>http://localhost:1313/New_hugo/team/rob-chisholm/</link>
       <pubDate>Fri, 01 Aug 2025 11:01:00 +0200</pubDate>
-      <guid>https://www.nimverta.com/team/rob-chisholm/</guid>
+      <guid>http://localhost:1313/New_hugo/team/rob-chisholm/</guid>
       <description>&lt;p&gt;Rob Chisholm brings extensive experience in business development and corporate strategy to the Nimverta team. As Chief Business Officer, he is responsible for driving the company&amp;rsquo;s commercial strategy, securing partnerships, and navigating the path to market.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Amit Singh</title>
-      <link>https://www.nimverta.com/team/amit-singh/</link>
+      <link>http://localhost:1313/New_hugo/team/amit-singh/</link>
       <pubDate>Fri, 01 Aug 2025 11:00:00 +0200</pubDate>
-      <guid>https://www.nimverta.com/team/amit-singh/</guid>
+      <guid>http://localhost:1313/New_hugo/team/amit-singh/</guid>
       <description>&lt;p&gt;Dr. Amit Singh is a bioinformatic data scientist. He holds a bachelor&amp;rsquo;s degree in Physics and a master&amp;rsquo;s degree in Biochemistry. After completing his master&amp;rsquo;s, he worked as a project associate at the Department of Biotechnology at the Indian Institute of Technology (IIT) in Madaras. Dr. Singh later moved to the University of Rostock at the faculty of computer science and electrical engineering in the Department of Systems Biology and Bioinformatics (SBI), where he worked as a research assistant on the Cancer and Aging Link through Systems Biology (CALSYS) project.&lt;/p&gt;</description>
     </item>
   </channel>

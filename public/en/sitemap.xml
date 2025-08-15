@@ -2,143 +2,143 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.nimverta.com/collaborators/</loc>
+    <loc>http://localhost:1313/New_hugo/collaborators/</loc>
     <lastmod>2025-08-01T12:05:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/</loc>
+    <loc>http://localhost:1313/New_hugo/</loc>
     <lastmod>2025-08-01T12:05:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/"
+                href="http://localhost:1313/New_hugo/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/"
+                href="http://localhost:1313/New_hugo/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/collaborators/john-doe/</loc>
+    <loc>http://localhost:1313/New_hugo/collaborators/john-doe/</loc>
     <lastmod>2025-08-01T12:05:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/advisory/</loc>
+    <loc>http://localhost:1313/New_hugo/advisory/</loc>
     <lastmod>2025-08-01T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/advisory/jane-doe/</loc>
+    <loc>http://localhost:1313/New_hugo/advisory/jane-doe/</loc>
     <lastmod>2025-08-01T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/team/gwang-jin-kim/</loc>
+    <loc>http://localhost:1313/New_hugo/team/gwang-jin-kim/</loc>
     <lastmod>2025-08-01T11:03:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/team/</loc>
+    <loc>http://localhost:1313/New_hugo/team/</loc>
     <lastmod>2025-08-01T11:03:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/team/anjali-kusumbe/</loc>
+    <loc>http://localhost:1313/New_hugo/team/anjali-kusumbe/</loc>
     <lastmod>2025-08-01T11:02:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/team/rob-chisholm/</loc>
+    <loc>http://localhost:1313/New_hugo/team/rob-chisholm/</loc>
     <lastmod>2025-08-01T11:01:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/team/amit-singh/</loc>
+    <loc>http://localhost:1313/New_hugo/team/amit-singh/</loc>
     <lastmod>2025-08-01T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/tags/biotech/</loc>
+    <loc>http://localhost:1313/New_hugo/tags/biotech/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/blog/</loc>
-    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://www.nimverta.com/blog/"
-                />
-  </url><url>
-    <loc>https://www.nimverta.com/tags/funding/</loc>
-    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.nimverta.com/blog/simple-blog-post-1/</loc>
+    <loc>http://localhost:1313/New_hugo/blog/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/blog/simple-blog-post-1/"
+                href="http://localhost:1313/New_hugo/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/blog/simple-blog-post-1/"
+                href="http://localhost:1313/New_hugo/blog/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/tags/startups/</loc>
+    <loc>http://localhost:1313/New_hugo/tags/funding/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/tags/</loc>
+    <loc>http://localhost:1313/New_hugo/blog/simple-blog-post-1/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/tags/"
+                href="http://localhost:1313/New_hugo/fr/blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/tags/"
+                href="http://localhost:1313/New_hugo/blog/simple-blog-post-1/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/tags/venture-kick/</loc>
+    <loc>http://localhost:1313/New_hugo/tags/startups/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.nimverta.com/author/</loc>
+    <loc>http://localhost:1313/New_hugo/tags/</loc>
+    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/author/"
+                href="http://localhost:1313/New_hugo/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/author/"
+                href="http://localhost:1313/New_hugo/tags/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/categories/</loc>
+    <loc>http://localhost:1313/New_hugo/tags/venture-kick/</loc>
+    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/New_hugo/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/categories/"
+                href="http://localhost:1313/New_hugo/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/categories/"
+                href="http://localhost:1313/New_hugo/author/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/author/john-doe/</loc>
+    <loc>http://localhost:1313/New_hugo/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/author/john-doe/"
+                href="http://localhost:1313/New_hugo/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/author/john-doe/"
+                href="http://localhost:1313/New_hugo/categories/"
                 />
   </url><url>
-    <loc>https://www.nimverta.com/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/New_hugo/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://www.nimverta.com/fr/author/mark-dinn/"
+                href="http://localhost:1313/New_hugo/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://www.nimverta.com/author/mark-dinn/"
+                href="http://localhost:1313/New_hugo/author/john-doe/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/New_hugo/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/New_hugo/fr/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/New_hugo/author/mark-dinn/"
                 />
   </url>
 </urlset>
