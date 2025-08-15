@@ -17,11 +17,13 @@
         <div class="post-single-content">
           {{ .Content }}
         </div>
-        {{ partial "go-back-button.html" . }}
 
         {{ if site.Params.post_share }}
         {{ partial "post-share.html" . }}
         {{ end }}
+
+        {{ partial "go-back-button.html" . }}
+
         <!-- comments -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}
