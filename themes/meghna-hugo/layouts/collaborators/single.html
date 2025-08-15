@@ -6,6 +6,23 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
+        
+        <!-- =================================== -->
+        <!-- START: LOGO SECTION -->
+        <!-- =================================== -->
+        <!-- Add the logo container here, before the main title -->
+        <div class="member-logo-container mb-4">
+          {{ partial "image.html" (dict 
+            "Src" .Params.logo_webp 
+            "Fallback" .Params.logo 
+            "Alt" (printf "%s Logo" .Title) 
+            "Class" "member-logo") 
+          }}
+        </div>
+        <!-- =================================== -->
+        <!-- END: LOGO SECTION -->
+        <!-- =================================== -->
+
         <h1>{{ .Title }}</h1>
         <h4 class="text-muted">{{ .Params.designation }}</h4>
         <ul class="list-inline mb-50">
