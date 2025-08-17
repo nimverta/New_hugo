@@ -3,12 +3,12 @@ title: "Dr. Gwang Jin Kim"
 date: 2025-08-01T11:03:00+02:00
 image_webp: "images/team/me-hamburg.webp"
 image: "images/team/me-hamburg.jpg"
-designation: "SEO Specialist"
+designation: "COO"
 social:
   - icon: "ti-linkedin"
     link: "https://www.linkedin.com/in/gwangjin/"
-  - icon: "ti-twitter-alt"
-    link: "#"
+  - icon: "ti-google"
+    link: "https://scholar.google.com/citations?user=e_iH4_AAAAAJ&hl=en"
 ---
 
 Dr. Gwang Jin Kim is a specialist in search engine optimization and digital strategy, ensuring that Nimverta's scientific mission and message reach a global audience. His role is crucial in building the company's online presence, communicating its vision to stakeholders, and attracting talent and partners through digital channels.
