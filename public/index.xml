@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nimverta</title>
-    <link>http://localhost:1313/New_hugo/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nimverta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Aug 2025 12:00:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/New_hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. med. Stefan Zimmermann</title>
-      <link>http://localhost:1313/New_hugo/advisory/dr_med_stefan_zimmermann/</link>
+      <link>http://localhost:1313/advisory/dr_med_stefan_zimmermann/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/dr_med_stefan_zimmermann/</guid>
+      <guid>http://localhost:1313/advisory/dr_med_stefan_zimmermann/</guid>
       <description>&lt;p&gt;Expert and specialist in Orthopaedic surgery and traumatology of the musculoskeletal system. Hirslanden, Zurich, Switzerland.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Sarika Singh</title>
-      <link>http://localhost:1313/New_hugo/advisory/dr_sarika_singh/</link>
+      <link>http://localhost:1313/advisory/dr_sarika_singh/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/dr_sarika_singh/</guid>
+      <guid>http://localhost:1313/advisory/dr_sarika_singh/</guid>
       <description>&lt;p&gt;Senior Advisor at McNeely, Hare &amp;amp; War, LLP, New Jersey, USA. Expert in intellectual property and regulatory strategy, with extensive experience in patent prosecution, freedom-to-operate analysis, and regulatory pathways for biotech and pharmaceutical innovations in the US and global markets.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Tami Ehrmann Barr</title>
-      <link>http://localhost:1313/New_hugo/advisory/dr_tami_ehrmann_barr/</link>
+      <link>http://localhost:1313/advisory/dr_tami_ehrmann_barr/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/dr_tami_ehrmann_barr/</guid>
+      <guid>http://localhost:1313/advisory/dr_tami_ehrmann_barr/</guid>
       <description>&lt;p&gt;Co-founder and former Chief Scientific Officer of Orthotreat, a bone biotech company based in Israel. Expert in regulatory affairs with deep experience in navigating clinical development and regulatory approval processes for bone and musculoskeletal therapies, including orphan drug designations and interactions with global health authorities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Glenn Stanley</title>
-      <link>http://localhost:1313/New_hugo/advisory/glenn_stanley/</link>
+      <link>http://localhost:1313/advisory/glenn_stanley/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/glenn_stanley/</guid>
+      <guid>http://localhost:1313/advisory/glenn_stanley/</guid>
       <description>&lt;p&gt;Key Opinion Leader (KOL) in osteoporosis and metabolic bone diseases, Prof. Serge Ferrari is a renowned clinical researcher at the University of Geneva, Switzerland. He is internationally recognized for his contributions to the understanding and treatment of osteoporosis, with a focus on translational research and innovative therapeutic strategies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Alessandro Angelini</title>
-      <link>http://localhost:1313/New_hugo/advisory/prof_alessandro_angelini/</link>
+      <link>http://localhost:1313/advisory/prof_alessandro_angelini/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/prof_alessandro_angelini/</guid>
+      <guid>http://localhost:1313/advisory/prof_alessandro_angelini/</guid>
       <description>&lt;p&gt;Expert in peptide design and formulation, Co-Founder and CSO at Arzanya, and researcher at the European Center for Living Technology, Ca’ Foscari University of Venice, Italy. He specializes in developing innovative peptide-based therapeutics through advanced molecular engineering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Iván Durán</title>
-      <link>http://localhost:1313/New_hugo/advisory/prof_ivan_duran/</link>
+      <link>http://localhost:1313/advisory/prof_ivan_duran/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/prof_ivan_duran/</guid>
+      <guid>http://localhost:1313/advisory/prof_ivan_duran/</guid>
       <description>&lt;p&gt;Expert on rare bone disease and creating research animal models for studying rare bone disease. University of Malaga, Spain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Lothar Seefried</title>
-      <link>http://localhost:1313/New_hugo/advisory/prof_lothar_seefried/</link>
+      <link>http://localhost:1313/advisory/prof_lothar_seefried/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/prof_lothar_seefried/</guid>
+      <guid>http://localhost:1313/advisory/prof_lothar_seefried/</guid>
       <description>&lt;p&gt;Leading clinician and researcher in the field of rare bone diseases, metabolic bone disorders, and orthopedic surgery and key opinion leader. His expertise includes conditions such as osteogenesis imperfecta, fibrous dysplasia, and hypophosphatasia. University of Wurzburg, Germany.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Serge Ferrari</title>
-      <link>http://localhost:1313/New_hugo/advisory/prof_serge_ferrari/</link>
+      <link>http://localhost:1313/advisory/prof_serge_ferrari/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/prof_serge_ferrari/</guid>
+      <guid>http://localhost:1313/advisory/prof_serge_ferrari/</guid>
       <description>&lt;p&gt;Key Opinion Leader (KOL) in osteoporosis and metabolic bone diseases, Prof. Serge Ferrari is a renowned clinical researcher at the University of Geneva, Switzerland. He is internationally recognized for his contributions to the understanding and treatment of osteoporosis, with a focus on translational research and innovative therapeutic strategies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Shubhendu Palei</title>
-      <link>http://localhost:1313/New_hugo/advisory/prof_shubhendu_palei/</link>
+      <link>http://localhost:1313/advisory/prof_shubhendu_palei/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/prof_shubhendu_palei/</guid>
+      <guid>http://localhost:1313/advisory/prof_shubhendu_palei/</guid>
       <description>&lt;p&gt;Expert in chemical biology and synthetic biology, with a focus on the design and development of bioactive molecules, peptide therapeutics, and chemical probes for biomedical applications. Indian Institute of Technology (IIT) Kharagpur, India.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Retard. Prof. Dr. med. Klaus Mohnike</title>
-      <link>http://localhost:1313/New_hugo/advisory/retard_prof_dr_med_klaus_mohnike/</link>
+      <link>http://localhost:1313/advisory/retard_prof_dr_med_klaus_mohnike/</link>
       <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/retard_prof_dr_med_klaus_mohnike/</guid>
+      <guid>http://localhost:1313/advisory/retard_prof_dr_med_klaus_mohnike/</guid>
       <description>&lt;p&gt;Pediatric endocrinologist, Key Opinion Leader (KOL) in rare bone and metabolic disorders, and pioneer in the clinical development of enzyme replacement therapy for hypophosphatasia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Innovation Lab</title>
-      <link>http://localhost:1313/New_hugo/collaborators/john-doe/</link>
+      <link>http://localhost:1313/collaborators/john-doe/</link>
       <pubDate>Fri, 01 Aug 2025 12:05:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/collaborators/john-doe/</guid>
+      <guid>http://localhost:1313/collaborators/john-doe/</guid>
       <description>&lt;p&gt;The Innovation lab at the Univeristy of Science is akey collaborator &amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Gwang Jin Kim</title>
-      <link>http://localhost:1313/New_hugo/team/gwang-jin-kim/</link>
+      <link>http://localhost:1313/team/gwang-jin-kim/</link>
       <pubDate>Fri, 01 Aug 2025 11:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/gwang-jin-kim/</guid>
+      <guid>http://localhost:1313/team/gwang-jin-kim/</guid>
       <description>&lt;p&gt;Dr. Gwang Jin Kim is a specialist in search engine optimization and digital strategy, ensuring that Nimverta&amp;rsquo;s scientific mission and message reach a global audience. His role is crucial in building the company&amp;rsquo;s online presence, communicating its vision to stakeholders, and attracting talent and partners through digital channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Anjali Kusumbe</title>
-      <link>http://localhost:1313/New_hugo/team/anjali-kusumbe/</link>
+      <link>http://localhost:1313/team/anjali-kusumbe/</link>
       <pubDate>Fri, 01 Aug 2025 11:02:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/anjali-kusumbe/</guid>
+      <guid>http://localhost:1313/team/anjali-kusumbe/</guid>
       <description>&lt;p&gt;Prof. Anjali Kusumbe is a vascular biologist and expert in bone vasculature, ageing, and tissue regeneration. She currently leads a research group at Nanyang Technological University (NTU), Singapore. Her work explores how blood vessels regulate stem cells and drive bone health and regeneration. Before joining NTU, she was a group leader at the University of Oxford, where she made pioneering discoveries in skeletal vascular niches. Prof. Kusumbe has received several prestigious awards, including the ERC Starting Grant and the Werner-Risau Memorial Award.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rob Chisholm</title>
-      <link>http://localhost:1313/New_hugo/team/rob-chisholm/</link>
+      <link>http://localhost:1313/team/rob-chisholm/</link>
       <pubDate>Fri, 01 Aug 2025 11:01:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/rob-chisholm/</guid>
+      <guid>http://localhost:1313/team/rob-chisholm/</guid>
       <description>&lt;p&gt;Rob Chisholm is an accomplished biopharmaceutical executive with over 25 years of global industry experience, specializing in bringing innovative therapies to market for patients with serious medical conditions. He has held senior leadership roles at leading companies including Takeda, Kyowa Kirin, GSK, IQVIA, and Astellas, where he successfully navigated the strategic and operational challenges of drug development and commercialization. Rob is the Founder and CEO of Noveeda, a consultancy focused on accelerating biotech innovation. As Chief Business Officer at Nimverta, he brings deep industry insight, a broad global network, and a proven track record of guiding startups through growth and market entry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Amit Singh</title>
-      <link>http://localhost:1313/New_hugo/team/amit-singh/</link>
+      <link>http://localhost:1313/team/amit-singh/</link>
       <pubDate>Fri, 01 Aug 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/amit-singh/</guid>
+      <guid>http://localhost:1313/team/amit-singh/</guid>
       <description>&lt;p&gt;Dr. Amit Singh is a bioinformatic data scientist. He holds a bachelor&amp;rsquo;s degree in Physics and a master&amp;rsquo;s degree in Biochemistry. After completing his master&amp;rsquo;s, he worked as a project associate at the Department of Biotechnology at the Indian Institute of Technology (IIT) in Madaras. Dr. Singh later moved to the University of Rostock at the faculty of computer science and electrical engineering in the Department of Systems Biology and Bioinformatics (SBI), where he worked as a research assistant on the Cancer and Aging Link through Systems Biology (CALSYS) project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nimverta Secures Venture Kick Support to Advance Bone Regeneration Therapy</title>
-      <link>http://localhost:1313/New_hugo/blog/simple-blog-post-1/</link>
+      <link>http://localhost:1313/blog/simple-blog-post-1/</link>
       <pubDate>Tue, 24 Jun 2025 09:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/blog/simple-blog-post-1/</guid>
+      <guid>http://localhost:1313/blog/simple-blog-post-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Nimverta&lt;/strong&gt;, a Zurich-based biotech startup, has secured CHF 10,000 in funding from &lt;a href=&#34;https://www.venturekick.ch&#34;&gt;Venture Kick&lt;/a&gt;, entering a new phase in its journey to develop first-in-class peptide therapies for bone regeneration. The support is part of &lt;a href=&#34;https://www.venturekick.ch/CHF-10000-for-firstinclass-peptide-therapeutics-E-coli-vaccine-cold-chain-logistics-a-software-for-diplomats-and-therapies-for-bone-disease&#34;&gt;Venture Kick’s Stage I&lt;/a&gt;, designed to catalyze high-potential Swiss startups.&lt;/p&gt;</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>http://localhost:1313/New_hugo/author/john-doe/</link>
+      <link>http://localhost:1313/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/New_hugo/author/john-doe/</guid>
+      <guid>http://localhost:1313/author/john-doe/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:1313/New_hugo/author/mark-dinn/</link>
+      <link>http://localhost:1313/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/New_hugo/author/mark-dinn/</guid>
+      <guid>http://localhost:1313/author/mark-dinn/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
   </channel>

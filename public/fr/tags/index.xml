@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nimverta</title>
-    <link>http://localhost:1313/New_hugo/fr/tags/</link>
+    <link>http://localhost:1313/fr/tags/</link>
     <description>Recent content in Tags on Nimverta</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:1313/New_hugo/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

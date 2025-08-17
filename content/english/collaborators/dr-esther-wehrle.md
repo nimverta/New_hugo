@@ -1,8 +1,8 @@
 ---
-title: "The Innovation Lab"
+title: "Dr. Esther Wehrle"
 date: 2025-08-01T12:05:00+02:00
-image_webp: "images/team/default-collaborator.webp"
-image: "images/team/default-collaborator.jpg"
+image_webp: "images/team/dr-esther-wehrle.webp"
+image: "images/team/dr-esther-wehrle.jpg"
 logo_webp: "images/team/innovation-lab-logo.webp" 
 logo: "images/team/innovation-lab-logo.png" 
 designation: "Research Partner, University of Science"
@@ -11,4 +11,4 @@ social:
       link: "#"
 ---
 
-The Innovation lab at the Univeristy of Science is akey collaborator ...
+[Text for Esther Wehrle.]

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Nimverta</title>
-    <link>http://localhost:1313/New_hugo/team/</link>
+    <link>http://localhost:1313/team/</link>
     <description>Recent content in Teams on Nimverta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Aug 2025 11:03:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/New_hugo/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dr. Gwang Jin Kim</title>
-      <link>http://localhost:1313/New_hugo/team/gwang-jin-kim/</link>
+      <link>http://localhost:1313/team/gwang-jin-kim/</link>
       <pubDate>Fri, 01 Aug 2025 11:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/gwang-jin-kim/</guid>
+      <guid>http://localhost:1313/team/gwang-jin-kim/</guid>
       <description>&lt;p&gt;Dr. Gwang Jin Kim is a specialist in search engine optimization and digital strategy, ensuring that Nimverta&amp;rsquo;s scientific mission and message reach a global audience. His role is crucial in building the company&amp;rsquo;s online presence, communicating its vision to stakeholders, and attracting talent and partners through digital channels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prof. Anjali Kusumbe</title>
-      <link>http://localhost:1313/New_hugo/team/anjali-kusumbe/</link>
+      <link>http://localhost:1313/team/anjali-kusumbe/</link>
       <pubDate>Fri, 01 Aug 2025 11:02:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/anjali-kusumbe/</guid>
+      <guid>http://localhost:1313/team/anjali-kusumbe/</guid>
       <description>&lt;p&gt;Prof. Anjali Kusumbe is a vascular biologist and expert in bone vasculature, ageing, and tissue regeneration. She currently leads a research group at Nanyang Technological University (NTU), Singapore. Her work explores how blood vessels regulate stem cells and drive bone health and regeneration. Before joining NTU, she was a group leader at the University of Oxford, where she made pioneering discoveries in skeletal vascular niches. Prof. Kusumbe has received several prestigious awards, including the ERC Starting Grant and the Werner-Risau Memorial Award.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rob Chisholm</title>
-      <link>http://localhost:1313/New_hugo/team/rob-chisholm/</link>
+      <link>http://localhost:1313/team/rob-chisholm/</link>
       <pubDate>Fri, 01 Aug 2025 11:01:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/rob-chisholm/</guid>
+      <guid>http://localhost:1313/team/rob-chisholm/</guid>
       <description>&lt;p&gt;Rob Chisholm is an accomplished biopharmaceutical executive with over 25 years of global industry experience, specializing in bringing innovative therapies to market for patients with serious medical conditions. He has held senior leadership roles at leading companies including Takeda, Kyowa Kirin, GSK, IQVIA, and Astellas, where he successfully navigated the strategic and operational challenges of drug development and commercialization. Rob is the Founder and CEO of Noveeda, a consultancy focused on accelerating biotech innovation. As Chief Business Officer at Nimverta, he brings deep industry insight, a broad global network, and a proven track record of guiding startups through growth and market entry.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Amit Singh</title>
-      <link>http://localhost:1313/New_hugo/team/amit-singh/</link>
+      <link>http://localhost:1313/team/amit-singh/</link>
       <pubDate>Fri, 01 Aug 2025 11:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/team/amit-singh/</guid>
+      <guid>http://localhost:1313/team/amit-singh/</guid>
       <description>&lt;p&gt;Dr. Amit Singh is a bioinformatic data scientist. He holds a bachelor&amp;rsquo;s degree in Physics and a master&amp;rsquo;s degree in Biochemistry. After completing his master&amp;rsquo;s, he worked as a project associate at the Department of Biotechnology at the Indian Institute of Technology (IIT) in Madaras. Dr. Singh later moved to the University of Rostock at the faculty of computer science and electrical engineering in the Department of Systems Biology and Bioinformatics (SBI), where he worked as a research assistant on the Cancer and Aging Link through Systems Biology (CALSYS) project.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,170 +2,170 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/New_hugo/advisory/</loc>
+    <loc>http://localhost:1313/advisory/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/dr_med_stefan_zimmermann/</loc>
+    <loc>http://localhost:1313/advisory/dr_med_stefan_zimmermann/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/dr_sarika_singh/</loc>
+    <loc>http://localhost:1313/advisory/dr_sarika_singh/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/dr_tami_ehrmann_barr/</loc>
+    <loc>http://localhost:1313/advisory/dr_tami_ehrmann_barr/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/glenn_stanley/</loc>
+    <loc>http://localhost:1313/advisory/glenn_stanley/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/prof_alessandro_angelini/</loc>
+    <loc>http://localhost:1313/advisory/prof_alessandro_angelini/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/prof_ivan_duran/</loc>
+    <loc>http://localhost:1313/advisory/prof_ivan_duran/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/prof_lothar_seefried/</loc>
+    <loc>http://localhost:1313/advisory/prof_lothar_seefried/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/prof_serge_ferrari/</loc>
+    <loc>http://localhost:1313/advisory/prof_serge_ferrari/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/prof_shubhendu_palei/</loc>
+    <loc>http://localhost:1313/advisory/prof_shubhendu_palei/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/advisory/retard_prof_dr_med_klaus_mohnike/</loc>
+    <loc>http://localhost:1313/advisory/retard_prof_dr_med_klaus_mohnike/</loc>
     <lastmod>2025-08-17T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/collaborators/</loc>
+    <loc>http://localhost:1313/collaborators/</loc>
     <lastmod>2025-08-01T12:05:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/collaborators/john-doe/</loc>
+    <loc>http://localhost:1313/collaborators/john-doe/</loc>
     <lastmod>2025-08-01T12:05:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/team/gwang-jin-kim/</loc>
+    <loc>http://localhost:1313/team/gwang-jin-kim/</loc>
     <lastmod>2025-08-01T11:03:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/team/</loc>
+    <loc>http://localhost:1313/team/</loc>
     <lastmod>2025-08-01T11:03:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/team/anjali-kusumbe/</loc>
+    <loc>http://localhost:1313/team/anjali-kusumbe/</loc>
     <lastmod>2025-08-01T11:02:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/team/rob-chisholm/</loc>
+    <loc>http://localhost:1313/team/rob-chisholm/</loc>
     <lastmod>2025-08-01T11:01:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/team/amit-singh/</loc>
+    <loc>http://localhost:1313/team/amit-singh/</loc>
     <lastmod>2025-08-01T11:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/tags/biotech/</loc>
+    <loc>http://localhost:1313/tags/biotech/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/blog/</loc>
-    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/New_hugo/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/New_hugo/tags/funding/</loc>
-    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/New_hugo/blog/simple-blog-post-1/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/blog/simple-blog-post-1/"
+                href="http://localhost:1313/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/blog/simple-blog-post-1/"
+                href="http://localhost:1313/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/tags/startups/</loc>
+    <loc>http://localhost:1313/tags/funding/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/tags/</loc>
+    <loc>http://localhost:1313/blog/simple-blog-post-1/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/tags/"
+                href="http://localhost:1313/fr/blog/simple-blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/tags/"
+                href="http://localhost:1313/blog/simple-blog-post-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/tags/venture-kick/</loc>
+    <loc>http://localhost:1313/tags/startups/</loc>
     <lastmod>2025-06-24T09:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/New_hugo/author/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/author/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/author/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/categories/</loc>
+    <loc>http://localhost:1313/tags/venture-kick/</loc>
+    <lastmod>2025-06-24T09:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/categories/"
+                href="http://localhost:1313/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/categories/"
+                href="http://localhost:1313/author/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/author/john-doe/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/author/john-doe/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/author/john-doe/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/New_hugo/author/mark-dinn/</loc>
+    <loc>http://localhost:1313/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:1313/New_hugo/fr/author/mark-dinn/"
+                href="http://localhost:1313/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/New_hugo/author/mark-dinn/"
+                href="http://localhost:1313/author/john-doe/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/mark-dinn/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="http://localhost:1313/fr/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/mark-dinn/"
                 />
   </url>
 </urlset>
