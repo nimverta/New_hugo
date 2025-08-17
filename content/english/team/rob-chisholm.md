@@ -11,6 +11,5 @@ social:
     link: "#"
 ---
 
-Rob Chisholm brings extensive experience in business development and corporate strategy to the Nimverta team. As Chief Business Officer, he is responsible for driving the company's commercial strategy, securing partnerships, and navigating the path to market.
+Rob Chisholm is an accomplished biopharmaceutical executive with over 25 years of global industry experience, specializing in bringing innovative therapies to market for patients with serious medical conditions. He has held senior leadership roles at leading companies including Takeda, Kyowa Kirin, GSK, IQVIA, and Astellas, where he successfully navigated the strategic and operational challenges of drug development and commercialization. Rob is the Founder and CEO of Noveeda, a consultancy focused on accelerating biotech innovation. As Chief Business Officer at Nimverta, he brings deep industry insight, a broad global network, and a proven track record of guiding startups through growth and market entry.
 
-Prior to joining Nimverta, Rob held leadership roles in several successful biotech and pharmaceutical ventures. His expertise lies in identifying market opportunities, forging strategic alliances, and raising capital to fuel innovation. He has a proven track record of translating scientific breakthroughs into commercially viable therapies that address critical unmet medical needs. Rob is passionate about building businesses that make a tangible impact on patients' lives and is dedicated to establishing Nimverta as a leader in regenerative medicine.

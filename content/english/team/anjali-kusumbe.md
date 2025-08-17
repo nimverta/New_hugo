@@ -11,6 +11,4 @@ social:
     link: "https://x.com/kusumbelab"
 ---
 
-Professor Anjali Kusumbe is a leading expert in the field of vascular biology and its role in tissue regeneration and aging. As Chief Scientific Officer, she provides the scientific vision and leadership that underpins Nimverta's groundbreaking therapeutic platform. Her pioneering research into the vascular microenvironment of bone has been published in top-tier scientific journals and has fundamentally shifted the understanding of skeletal diseases.
-
-Prof. Kusumbe leads her own research group at the University of Oxford, where she continues to explore the intricate relationship between blood vessels and stem cells. Her deep knowledge of the NCAM1-FGFR1 signaling pathway is central to Nimverta’s therapeutic approach. She is committed to translating her fundamental discoveries into clinical applications that can restore mobility and quality of life for millions suffering from bone-related conditions.
+Prof. Anjali Kusumbe is a vascular biologist and expert in bone vasculature, ageing, and tissue regeneration. She currently leads a research group at Nanyang Technological University (NTU), Singapore. Her work explores how blood vessels regulate stem cells and drive bone health and regeneration. Before joining NTU, she was a group leader at the University of Oxford, where she made pioneering discoveries in skeletal vascular niches. Prof. Kusumbe has received several prestigious awards, including the ERC Starting Grant and the Werner-Risau Memorial Award.

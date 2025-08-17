@@ -6,14 +6,77 @@
     <description>Recent content in Advisories on Nimverta</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2025 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/New_hugo/advisory/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dr. Jane Doe</title>
-      <link>http://localhost:1313/New_hugo/advisory/jane-doe/</link>
-      <pubDate>Fri, 01 Aug 2025 12:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/New_hugo/advisory/jane-doe/</guid>
-      <description>&lt;p&gt;Dr. Jane Doe is a world-renowned expert in cellular biology and regenerative medicine. Her research has been instrumental in understanding the molecular pathways that govern tissue repair, and her work provides a critical external perspective to guide Nimverta&amp;rsquo;s scientific strategy.&lt;/p&gt;</description>
+      <title>Dr. med. Stefan Zimmermann</title>
+      <link>http://localhost:1313/New_hugo/advisory/dr_med_stefan_zimmermann/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/dr_med_stefan_zimmermann/</guid>
+      <description>&lt;p&gt;Expert and specialist in Orthopaedic surgery and traumatology of the musculoskeletal system. Hirslanden, Zurich, Switzerland.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Sarika Singh</title>
+      <link>http://localhost:1313/New_hugo/advisory/dr_sarika_singh/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/dr_sarika_singh/</guid>
+      <description>&lt;p&gt;Senior Advisor at McNeely, Hare &amp;amp; War, LLP, New Jersey, USA. Expert in intellectual property and regulatory strategy, with extensive experience in patent prosecution, freedom-to-operate analysis, and regulatory pathways for biotech and pharmaceutical innovations in the US and global markets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Tami Ehrmann Barr</title>
+      <link>http://localhost:1313/New_hugo/advisory/dr_tami_ehrmann_barr/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/dr_tami_ehrmann_barr/</guid>
+      <description>&lt;p&gt;Co-founder and former Chief Scientific Officer of Orthotreat, a bone biotech company based in Israel. Expert in regulatory affairs with deep experience in navigating clinical development and regulatory approval processes for bone and musculoskeletal therapies, including orphan drug designations and interactions with global health authorities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Glenn Stanley</title>
+      <link>http://localhost:1313/New_hugo/advisory/glenn_stanley/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/glenn_stanley/</guid>
+      <description>&lt;p&gt;Key Opinion Leader (KOL) in osteoporosis and metabolic bone diseases, Prof. Serge Ferrari is a renowned clinical researcher at the University of Geneva, Switzerland. He is internationally recognized for his contributions to the understanding and treatment of osteoporosis, with a focus on translational research and innovative therapeutic strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Alessandro Angelini</title>
+      <link>http://localhost:1313/New_hugo/advisory/prof_alessandro_angelini/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/prof_alessandro_angelini/</guid>
+      <description>&lt;p&gt;Expert in peptide design and formulation, Co-Founder and CSO at Arzanya, and researcher at the European Center for Living Technology, Ca’ Foscari University of Venice, Italy. He specializes in developing innovative peptide-based therapeutics through advanced molecular engineering.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Iván Durán</title>
+      <link>http://localhost:1313/New_hugo/advisory/prof_ivan_duran/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/prof_ivan_duran/</guid>
+      <description>&lt;p&gt;Expert on rare bone disease and creating research animal models for studying rare bone disease. University of Malaga, Spain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Lothar Seefried</title>
+      <link>http://localhost:1313/New_hugo/advisory/prof_lothar_seefried/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/prof_lothar_seefried/</guid>
+      <description>&lt;p&gt;Leading clinician and researcher in the field of rare bone diseases, metabolic bone disorders, and orthopedic surgery and key opinion leader. His expertise includes conditions such as osteogenesis imperfecta, fibrous dysplasia, and hypophosphatasia. University of Wurzburg, Germany.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Serge Ferrari</title>
+      <link>http://localhost:1313/New_hugo/advisory/prof_serge_ferrari/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/prof_serge_ferrari/</guid>
+      <description>&lt;p&gt;Key Opinion Leader (KOL) in osteoporosis and metabolic bone diseases, Prof. Serge Ferrari is a renowned clinical researcher at the University of Geneva, Switzerland. He is internationally recognized for his contributions to the understanding and treatment of osteoporosis, with a focus on translational research and innovative therapeutic strategies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prof. Shubhendu Palei</title>
+      <link>http://localhost:1313/New_hugo/advisory/prof_shubhendu_palei/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/prof_shubhendu_palei/</guid>
+      <description>&lt;p&gt;Expert in chemical biology and synthetic biology, with a focus on the design and development of bioactive molecules, peptide therapeutics, and chemical probes for biomedical applications. Indian Institute of Technology (IIT) Kharagpur, India.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Retard. Prof. Dr. med. Klaus Mohnike</title>
+      <link>http://localhost:1313/New_hugo/advisory/retard_prof_dr_med_klaus_mohnike/</link>
+      <pubDate>Sun, 17 Aug 2025 12:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/New_hugo/advisory/retard_prof_dr_med_klaus_mohnike/</guid>
+      <description>&lt;p&gt;Pediatric endocrinologist, Key Opinion Leader (KOL) in rare bone and metabolic disorders, and pioneer in the clinical development of enzyme replacement therapy for hypophosphatasia.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
