@@ -79,11 +79,18 @@
       <description>&lt;p&gt;Pediatric endocrinologist, Key Opinion Leader (KOL) in rare bone and metabolic disorders, and pioneer in the clinical development of enzyme replacement therapy for hypophosphatasia.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Innovation Lab</title>
-      <link>http://localhost:1313/collaborators/john-doe/</link>
+      <title>Dr. Esther Wehrle</title>
+      <link>http://localhost:1313/collaborators/dr-esther-wehrle/</link>
       <pubDate>Fri, 01 Aug 2025 12:05:00 +0200</pubDate>
-      <guid>http://localhost:1313/collaborators/john-doe/</guid>
-      <description>&lt;p&gt;The Innovation lab at the Univeristy of Science is akey collaborator &amp;hellip;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/collaborators/dr-esther-wehrle/</guid>
+      <description>&lt;p&gt;[Text for Esther Wehrle.]&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dr. Sagar Sagar</title>
+      <link>http://localhost:1313/collaborators/dr-sagar/</link>
+      <pubDate>Fri, 01 Aug 2025 12:05:00 +0200</pubDate>
+      <guid>http://localhost:1313/collaborators/dr-sagar/</guid>
+      <description>&lt;p&gt;[text for Sagar]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dr. Gwang Jin Kim</title>
